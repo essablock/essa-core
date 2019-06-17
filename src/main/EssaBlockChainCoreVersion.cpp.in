@@ -1,0 +1,4 @@
+#include "main/EssaBlockChainCoreVersion.h"
+
+const std::string ESSABLOCKCHAIN_CORE_VERSION = "%%VERSION%%";
+
